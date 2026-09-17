@@ -1,5 +1,6 @@
 import gradio as gr
-from summarizer import summarize
+# from AiInfused1 import summariser_langchain
+from summariser_langchain import summarize
 
 
 # ============================================================
