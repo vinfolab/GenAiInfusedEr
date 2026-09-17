@@ -36,7 +36,7 @@ This version introduces a basic **LangChain** workflow demonstrating how prompts
 
 tag v1.1.0
 Tagger: vinfolab <vinfolab@gmail.com>
-Date:
+Date: Thu Sep 17 22:59:45 2026 +0530
 Message: This version introduces a basic LangChain workflow demonstrating how prompts, language models, and output parsers can be composed into a sequential processing pipeline using LangChain Expression Language (LCEL).
 
 ### Key Components
